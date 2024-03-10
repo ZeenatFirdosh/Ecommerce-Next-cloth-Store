@@ -82,4 +82,4 @@ const Orders = async () => {
 export default Orders;
 
 export const dynamic = "force-dynamic";
-export const revalidate = "force-cache";
+export const revalidate = 0;

@@ -27,5 +27,5 @@ const ProductDetails = async ({ params }: { params: { productId: string }}) => {
 }
 
 export const dynamic = "force-dynamic";
-export const revalidate = "force-cache";
+export const revalidate = 0;
 export default ProductDetails

@@ -22,6 +22,6 @@ const SearchPage = async ({ params }: { params: { query: string }}) => {
 }
 
 export const dynamic = "force-dynamic";
-export const revalidate = "force-cache";
+export const revalidate = 0;
 
 export default SearchPage
