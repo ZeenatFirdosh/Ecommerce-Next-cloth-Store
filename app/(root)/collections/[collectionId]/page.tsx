@@ -33,4 +33,4 @@ const CollectionDetails = async ({
 export default CollectionDetails;
 
 export const dynamic = "force-dynamic";
-
+export const revalidate = "force-cache";

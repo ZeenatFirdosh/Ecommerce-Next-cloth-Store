@@ -72,5 +72,6 @@ const Wishlist = () => {
 }
 
 export const dynamic = "force-dynamic";
+export const revalidate = "force-cache";
 
 export default Wishlist
