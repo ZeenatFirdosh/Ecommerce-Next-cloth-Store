@@ -3,9 +3,9 @@
 ## Deployed Link: https://ecommerce-next-store.vercel.app/
 
 ### Features:
-• Added features such as product listing, detailed product information and Checkout with Stripe.
-• Executed Searching and category wise filtering, add to Wishlist and add to Cart functions
-• Implemented Tailwind CSS and Shadcn UI for a visually appealing, responsive interface.
+* Added features such as product listing, detailed product information and Checkout with Stripe.
+* Executed Searching and category wise filtering, add to Wishlist and add to Cart functions
+* Implemented Tailwind CSS and Shadcn UI for a visually appealing, responsive interface.
 
 ### Tech Stack:
 * Next.js 14, Stripe, TypeScript,Tailwind, Shadcn UI and MongoDB
